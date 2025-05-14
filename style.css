@@ -61,7 +61,7 @@ header {
 .buy-btn {
   margin-top: 10px;
   padding: 10px 20px;
-  background-color: #ffd700;
+  background-color: #00FFFF;
   border: none;
   border-radius: 5px;
   cursor: pointer;
@@ -71,7 +71,7 @@ header {
 }
 
 .buy-btn:hover {
-  background-color: #ffc107;
+  background-color: #00FFFF;
 }
 
 footer {
